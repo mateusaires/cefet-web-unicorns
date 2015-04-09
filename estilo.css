@@ -77,3 +77,18 @@ body{
 	margin-bottom:9px;
 }
 
+/*######################################## div musica*/
+#musica {
+	padding-left:12px;
+	font-family:"Arial";
+	font-size:14px;
+	color:black;
+}
+#musica p{
+	white-space:pre-line;
+}
+#musica h2{
+	font-family:"Times New Roman";
+	font-size:24px;
+	font-weight:normal;
+}
