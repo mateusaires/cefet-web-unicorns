@@ -19,17 +19,18 @@ body{
 #cabecalho h2{
 	font-family: "Times New Roman";
 	font-size:24px;
+	font-weight:normal;
 	padding-bottom:13px;
 	margin:0px;
 	border:0px;
 }
+
+/*######################################## div Verdade*/
 #unicornPic{
 	float:left;
 	width:310px;
 	padding-right:13px;
 }
-
-/*######################################## div Verdade*/
 #verdade{
 	color:black;
 	font-family:"Arial";
@@ -38,4 +39,41 @@ body{
 #verdade h2{
 	font-family:"Times New Roman";
 	font-size:24px;
+	font-weight:normal;
 }
+.referencia{
+	font-style:italic;
+}
+
+/*######################################## div hoje*/
+#hoje{
+	float:right;
+	box-sizing:border-box;
+	width:405px;
+	padding-top:20px;
+	padding-left:35px;
+	padding-right:35px;
+	padding-bottom:30px;
+	background-color:#f8cef7;
+	border:solid 1px #ff56fb;
+	text-align:center;
+	font-family:"Arial";
+	font-size:13px;
+	color:black;
+}
+#hoje img{
+	width:112px;
+	height:112px;
+}
+#hoje h2{
+	font-family:"Times New Roman";
+	font-size:24px;
+	font-weight:normal;
+}
+#hoje h3{
+	font-family:"Times New Roman";
+	font-size:18px;
+	font-weight:normal;
+	margin-bottom:9px;
+}
+
